@@ -56,7 +56,7 @@ class TemplateManager extends PKPTemplateManager {
 
 			// Pass app-specific details to template
 			$this->assign(array(
-				'brandImage' => 'templates/images/ojs_brand.png',
+				'brandImage' => 'templates/images/azdev_brand.png',
 				'packageKey' => 'common.openJournalSystems',
 			));
 
