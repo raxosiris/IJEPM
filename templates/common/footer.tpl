@@ -10,5 +10,5 @@
  *}
 {assign var=brandImage value="templates/images/azdev_brand.png"}
 {assign var=packageKey value="common.openJournalSystems"}
-{assign var=pkpLink value="http://pkp.sfu.ca/ojs"}
+{assign var=pkpLink value="https://azdev.pro"}
 {include file="core:common/footer.tpl"}
